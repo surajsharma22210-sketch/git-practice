@@ -4,3 +4,4 @@ Feature branch change
 Main branch edit
 Conflict from feature
 
+Amend test line
