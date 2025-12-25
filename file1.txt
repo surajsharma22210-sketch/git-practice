@@ -5,3 +5,4 @@ Main branch edit
 Conflict from feature
 Amend test line
 Bug fix from feature branch
+Main branch update before rebase
